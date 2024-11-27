@@ -1,9 +1,11 @@
 {
-  "name": "random-user-sdk",
+  "name": "random-user-api-sdk",
   "version": "1.0.0",
   "description": "SDK wrapper for random user api",
-  "main": "index.ts",
+  "main": "dist/index.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
+    "build": "tsc",
     "test": "jest"
   },
   "keywords": [
