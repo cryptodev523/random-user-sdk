@@ -3,7 +3,7 @@
 
 ## Objective
 
-Design an SDK that wraps around the Random User API. This SDK should simplify the process of fetching, filtering, and formatting user data for applications. The implementation should demonstrate your understanding of API design and good coding practices. You may use any programming language of your choice, though TypeScript, JavaScript, or Go are suggested.
+Design an SDK that wraps around the [Random User API](https://randomuser.me/documentation). This SDK should simplify the process of fetching, filtering, and formatting user data for applications. The implementation should demonstrate your understanding of API design and good coding practices. You may use any programming language of your choice, though TypeScript, JavaScript, or Go are suggested.
 
 ## Requirements
 
