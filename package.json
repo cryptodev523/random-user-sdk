@@ -1,6 +1,6 @@
 {
   "name": "random-user-api-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SDK wrapper for random user api",
   "main": "dist/index.ts",
   "types": "dist/index.d.ts",
@@ -14,6 +14,10 @@
   ],
   "author": "cryptodev523",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cryptodev523/random-user-sdk.git"
+  },
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "@types/node": "^22.10.0",
